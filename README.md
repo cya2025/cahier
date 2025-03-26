@@ -1,35 +1,56 @@
-douche (eau froide).
+# cahier.
 
-articulations.
+## douche.
+- j'utilise l'eau froide.
+- durée : 10 minutes.
 
-respiration.
+## articulations.
+- durée : 10 secondes.
 
-coups pliométrique (bras).
+## respiration.
+- durée : 10 minutes.
 
-coups poings.
+## coups pliométrique (bras).
+- durée : 10 minutes.
 
-coups pronation.
+## coups poings.
+- durée : 10 minutes.
 
-coups marteau.
+## coups pronation.
+- durée :  10 minutes.
 
-coups supination.
+## coups marteau.
+- durée : 10 minutes.
 
-coups coudes.
+## coups supination.
+- durée : 10 minutes.
 
-coups pliométrique (jambes).
+## coups coudes.
+- durée : 10 minutes.
 
-coups pieds.
+## coups pliométrique (jambes).
+- durée : 10 minutes.
 
-coups genoux.
+## coups pieds.
+- durée : 10 minutes.
 
-coups talons.
+## coups genoux.
+- durée : 10 minutes.
 
-squat.
+## coups talons.
+- durée : 10 minutes.
 
-sauts.
+## squat.
+- durée : 10 minutes.
 
-pompes.
+## sauts.
+- durée : 10 minutes.
 
-dips.
+## pompes.
+- durée : 10 minutes.
 
-tractions.
+## dips.
+- durée : 10 minutes.
+
+## tractions.
+- durée : 10 minutes.
